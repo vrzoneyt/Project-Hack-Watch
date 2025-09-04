@@ -1,11 +1,11 @@
 Colons can be used to align columns.
 
-| Pins           | What Thay Do  | Cool  |
-| -------------  |:-------------:| -----:|
-| Pin 1 - Red    | 5V           | $1600 |
-| Pin 2 - Yellow | Data +       |   $12 |
-| Pin 3 - Blue   | Data -       |    $1 |
-| Pin 4 - Black  | Gound        |    $1 |
+| Pins           | What Thay Do  | 
+| -------------  |:-------------:| 
+| Pin 1 - Red    | 5V            |
+| Pin 2 - Yellow | Data +        | 
+| Pin 3 - Blue   | Data -        |
+| Pin 4 - Black  | Gound         |
 
 There must be at least 3 dashes separating each header cell.
 The outer pipes (|) are optional, and you don't need to make the 
