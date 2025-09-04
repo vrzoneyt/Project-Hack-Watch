@@ -1,4 +1,4 @@
-![GitHub release](https://img.shields.io/github/vrzoneyt/Project-Hack-Watch?include_prereleases=&sort=semver&color=blue)
+![GitHub release](https://img.shields.io/github/release/vrzoneyt/Project-Hack-Watch?include_prereleases=&sort=semver&color=blue)
 ![License](https://img.shields.io/badge/License-MIT-blue)
 
 
