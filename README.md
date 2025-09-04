@@ -1,4 +1,4 @@
-GPIO
+GPIO:
 
 | Pins           | What Thay Do  | 
 | -------------  |:-------------:| 
