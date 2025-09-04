@@ -1,4 +1,6 @@
-[![](https://s18955.pcdn.co/wp-content/uploads/2018/02/github.png)](https://github.com/user/repository/subscription)
+[![GitHub tag](https://img.shields.io/github/tag/ vrzoneyt/Project-Hack-Watch?include_prereleases=&sort=semver&color=blue)](https://github.com/ vrzoneyt/Project-Hack-Watch/releases/)
+[![License](https://img.shields.io/badge/License-MIT-blue)](#license)
+
 
 
 GPIO:
