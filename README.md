@@ -1,4 +1,4 @@
-Colons can be used to align columns.
+GPIO
 
 | Pins           | What Thay Do  | 
 | -------------  |:-------------:| 
